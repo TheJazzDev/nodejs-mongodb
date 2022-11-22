@@ -1,0 +1,18 @@
+20221114	23:58:18	13dd4dd9-f1f0-4f66-b148-dd75a549e8e2	Error: Not allowed by CORS
+20221115	00:08:51	c26756cd-5137-49b2-8aec-fbc5b21a4a8c	Error: Not allowed by CORS
+20221115	00:11:07	3c0b1105-36ae-449d-90cf-e1e11063b378	Error: Not allowed by CORS
+20221115	00:40:44	c81890b4-3b6b-4452-ae89-90462481bdd6	Error: ENOENT: no such file or directory, stat 'C:\Users\babsm\OneDrive\Documents\Programming\Node JS by Dave Gray\5. Express Router\routes\new-page.html'
+20221115	00:42:08	6a13e713-a51d-4f39-9cc7-0597153a9c8d	Error: ENOENT: no such file or directory, stat 'C:\Users\babsm\OneDrive\Documents\Programming\Node JS by Dave Gray\5. Express Router\routes\index.html'
+20221117	23:45:06	30e409e7-0a8d-4f08-a0fd-9dc8efdff5b0	SyntaxError: Unexpected token f in JSON at position 1
+20221117	23:45:33	e47630e9-5843-4085-8397-5f6f48e27cbc	SyntaxError: Unexpected token ' in JSON at position 1
+20221121	02:00:09	44cac8ac-7f26-4b30-bdb7-22f712c65435	ReferenceError: refreshToken is not defined
+20221121	02:01:37	15bd3829-2525-44ea-83f3-439767cc1f72	ReferenceError: proces is not defined
+20221121	02:01:43	b15cc593-365c-4b17-adf8-e72e132ee989	ReferenceError: proces is not defined
+20221121	02:03:42	423e356b-d552-4e26-95a6-16ce61ac4224	ReferenceError: proces is not defined
+20221121	02:03:48	08ea96da-acf2-4878-afe8-02201fe9bf6f	ReferenceError: proces is not defined
+20221121	02:04:36	ae74be22-f0ac-4bc3-930d-fb46b5df270d	ReferenceError: proces is not defined
+20221121	02:06:41	c5aec43c-3f52-4453-bab2-452277d52310	ReferenceError: username is not defined
+20221121	02:06:48	0237aed0-b008-4353-b121-5b4a0fc6be19	ReferenceError: username is not defined
+20221121	19:42:09	06852fd1-0f67-4942-9425-30114d56308b	TypeError: authHeader?.statsWith is not a function
+20221122	13:47:24	40785095-79f3-45ea-93e4-1e5ea099cb29	TypeError: req.roles.map(...).findOne is not a function
+20221122	13:48:14	6d16b0b3-de6a-4a31-a5bb-69a398eb5fcf	TypeError: Cannot read properties of undefined (reading 'find')
