@@ -1,5 +1,5 @@
 {
-  "name": "12.-mongodb-schemas-and-data-models",
+  "name": "12.-refresh-token-rotation-and-reuse-detection",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
